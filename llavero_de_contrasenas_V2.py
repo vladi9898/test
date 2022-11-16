@@ -305,4 +305,4 @@ while True:
     # Salir
     elif accion == '6':
         time.sleep(1)
-        break
+        
